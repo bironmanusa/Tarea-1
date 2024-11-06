@@ -12,7 +12,7 @@ float perimetroRectangulo(float base, float altura);
 float areaRombo (float diagonal1, float diagonal2);
 float perimetroRombo (float lado1, float lado2, float lado3, float lado4);
 float areaTrapecio (float base1, float base2, float altura);
-float perimetroTrapecio(float lado1, float lado2, float base1, float base2);
+float perimetroTrapecio(float lado1, float lado2, float baseMayor, float baseMenor);
 float areaCirculo(float radio);
 float perimetroCirculo(float radio);
 float areaPoligono(int numLados, float lado, float apotema);

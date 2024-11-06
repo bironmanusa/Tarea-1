@@ -3,23 +3,50 @@
 	"calculos.h"
 	<math.h>
 
-1730851803 c:\users\usuario\documents\calculadora\calculos.h
+1730765920 c:\users\usuario\documents\calculadora\calculos.h
 
 1730760006 source:c:\users\usuario\documents\calculadora\datos.c
 	<stdio.h>
 	"calculos.h"
 
-1730853515 source:c:\users\usuario\documents\calculadora\main.c
+1730766108 source:c:\users\usuario\documents\calculadora\main.c
 	<stdio.h>
-	"calculos.h"
 	"datos.c"
+	"calculos.h"
 
-1730853528 c:\users\usuario\documents\calculadora\datos.c
+1730766222 c:\users\usuario\documents\calculadora\datos.c
 	<stdio.h>
 	"calculos.h"
 	"calculos.c"
 
-1730851803 c:\users\usuario\documents\calculadora\calculos.c
+1730765959 c:\users\usuario\documents\calculadora\calculos.c
+	"calculos.h"
+	<math.h>
+
+1730848529 source:c:\users\usuario\documents\calculadora - mod\auth.c
+	"auth.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1730848473 c:\users\usuario\documents\calculadora - mod\auth.h
+	<stdbool.h>
+
+1730848926 source:c:\users\usuario\documents\calculadora - mod\main.c
+	<stdio.h>
+	<string.h>
+	"auth.h"
+	"datos.c"
+	"calculos.h"
+
+1730849543 c:\users\usuario\documents\calculadora - mod\datos.c
+	<stdio.h>
+	"calculos.h"
+	"calculos.c"
+
+1730771063 c:\users\usuario\documents\calculadora - mod\calculos.h
+
+1730834833 c:\users\usuario\documents\calculadora - mod\calculos.c
 	"calculos.h"
 	<math.h>
 

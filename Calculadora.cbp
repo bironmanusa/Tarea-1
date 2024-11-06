@@ -31,7 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="datos.h" />
+		<Unit filename="auth.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="auth.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
